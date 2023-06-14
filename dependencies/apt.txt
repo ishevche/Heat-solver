@@ -1,0 +1,8 @@
+cmake
+g++
+libopenmpi-dev
+openmpi-bin
+openmpi-common
+openmpi-doc
+libboost-all-dev
+libpng++-dev
